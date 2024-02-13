@@ -1,0 +1,45 @@
+{
+   "name": "monokai-inspired",
+   "displayName": "Monokai Inspired",
+   "description": "Minimalists and Darker Monokai Inspired Theme",
+   "icon": "assets/monokai-logo.png",
+   "version": "1.0.0",
+   "publisher": "syrizaldev",
+   "license": "MIT",
+   "author": {
+      "name": "Syahrizal"
+   },
+   "engines": {
+      "vscode": "^1.45.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "galleryBanner": {
+      "theme": "dark",
+      "color": "#0d0d0d"
+   },
+   "keywords": [
+      "theme",
+      "monokai",
+      "dark-theme",
+      "color-theme",
+      "vscode-theme"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "uiTheme": "vs-dark",
+            "label": "Monokai Inspired",
+            "path": "./theme/monokai-inspired.json"
+         }
+      ]
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/syrizaldev/monokai-inspired"
+   },
+   "bugs": {
+      "url": "https://github.com/syrizaldev/monokai-inspired/issues"
+   }
+}
