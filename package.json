@@ -1,6 +1,6 @@
 {
-   "name": "monokai-inspired",
-   "displayName": "Monokai Inspired",
+   "name": "enhance-monokai",
+   "displayName": "Enhance Monokai",
    "description": "Minimalists and Darker Monokai Inspired Theme",
    "icon": "assets/monokai-logo.png",
    "version": "1.0.0",
@@ -24,22 +24,23 @@
       "monokai",
       "dark-theme",
       "color-theme",
+      "dark-monokai",
       "vscode-theme"
    ],
    "contributes": {
       "themes": [
          {
             "uiTheme": "vs-dark",
-            "label": "Monokai Inspired",
-            "path": "./theme/monokai-inspired.json"
+            "label": "Enhance Monokai",
+            "path": "./theme/enhance-monokai.json"
          }
       ]
    },
    "repository": {
       "type": "git",
-      "url": "https://github.com/syrizaldev/monokai-inspired"
+      "url": "https://github.com/syrizaldev/enhance-monokai"
    },
    "bugs": {
-      "url": "https://github.com/syrizaldev/monokai-inspired/issues"
+      "url": "https://github.com/syrizaldev/enhance-monokai/issues"
    }
 }
