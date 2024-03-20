@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="./assets/monokai-logo.png" width="100" height="100">
+    <img src="./assets/monokai-logo.png" width="120" height="120">
     <h1 align="center">Enhance Monokai</h1>
 </p>
 
-The minimalists and darker monokai inspired theme for Visual Studio Code.
+The dark and minimalist monokai-inspired theme for Visual Studio Code.
 Remove the unnecessary borders and improve syntax highlighting colors.
 
 ## Installation

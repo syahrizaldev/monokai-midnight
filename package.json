@@ -1,9 +1,9 @@
 {
    "name": "enhance-monokai",
    "displayName": "Enhance Monokai",
-   "description": "Minimalists and Darker Monokai Inspired Theme",
+   "description": "Dark and minimalist monokai-inspired theme.",
    "icon": "assets/monokai-logo.png",
-   "version": "1.0.0",
+   "version": "1.1.0",
    "publisher": "syrizaldev",
    "license": "MIT",
    "author": {

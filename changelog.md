@@ -6,3 +6,9 @@ Please check [**Keep a Changelog**](https://keepachangelog.com/) to structured t
 ## v1.0.0
 
 -  Initial release
+
+## v1.1.0
+
+-  Update button color
+-  Update checkbox color
+-  Update minimap color
