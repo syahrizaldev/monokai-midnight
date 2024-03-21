@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/monokai-logo.png" width="120" height="120">
+    <img src="./assets/monokai-logo.png" width="115" height="115">
     <h1 align="center">Enhance Monokai</h1>
 </p>
 
