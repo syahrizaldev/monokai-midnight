@@ -1,46 +1,48 @@
 {
-   "name": "enhance-monokai",
-   "displayName": "Enhance Monokai",
-   "description": "Dark and minimalist monokai-inspired theme.",
-   "icon": "assets/monokai-logo.png",
-   "version": "1.3.5",
-   "publisher": "syrizaldev",
+   "name": "monokai-palenight-theme",
+   "displayName": "Monokai Palenight Theme",
+   "description": "Clean and minimalist monokai-inspired dark vscode theme.",
    "license": "MIT",
+   "icon": "assets/logo.png",
+   "version": "1.0.0",
+   "publisher": "syahrizaldev",
    "author": {
       "name": "Syahrizal"
    },
    "engines": {
-      "vscode": "^1.45.0"
+      "vscode": "^1.20.0"
    },
    "categories": [
       "Themes"
    ],
    "galleryBanner": {
       "theme": "dark",
-      "color": "#0d0d0d"
+      "color": "#101720"
    },
    "keywords": [
       "theme",
       "vscode",
       "monokai",
+      "palenight",
       "dark-theme",
       "color-theme",
-      "vscode-theme"
+      "vscode-theme",
+      "monokai-theme"
    ],
    "contributes": {
       "themes": [
          {
             "uiTheme": "vs-dark",
-            "label": "Enhance Monokai",
-            "path": "./theme/enhance-monokai.json"
+            "label": "Monokai Palenight Theme",
+            "path": "./theme/monokai-palenight.json"
          }
       ]
    },
    "repository": {
       "type": "git",
-      "url": "https://github.com/syrizaldev/enhance-monokai"
+      "url": "https://github.com/syahrizaldev/monokai-palenight"
    },
    "bugs": {
-      "url": "https://github.com/syrizaldev/enhance-monokai/issues"
+      "url": "https://github.com/syahrizaldev/monokai-palenight/issues"
    }
 }
