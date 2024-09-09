@@ -506,7 +506,6 @@
       },
       {
          "scope": [
-            "support.function.std.rust",
             "meta.diff.header.from-file",
             "meta.diff.header.to-file",
             "punctuation.definition.from-file.diff",
@@ -544,6 +543,7 @@
             "entity.name.type.interface",
             "entity.name.type.module",
             "support.type.graphql",
+            "support.function.std.rust",
             "meta.selector.css",
             "meta.selector.less",
             "meta.selector.scss",
