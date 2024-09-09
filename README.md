@@ -11,7 +11,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 1. Open the **Extensions** sidebar on Visual Studio Code.
 2. Search for **Monokai Palenight Theme**.
 3. Click **Install** to start the installation process.
-4. File > Preferences > Theme > Color Theme > Monokai Palenight Theme
+4. Preferences > Theme > Color Theme > Monokai Palenight Theme
 
 ## Optional Setting
 
@@ -29,8 +29,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 
 ## Screenshots
 
-![Monokai Palenight Theme](./assets/screenshot.png)
-<br><br>
+![Monokai Palenight Theme](./assets/screenshot.png)<br>
 ![Monokai Palenight Theme](./assets/example.png)
 
 ## Contributing
@@ -43,4 +42,3 @@ Thank you for the contributions and have a nice day.
 ## License
 
 [MIT License](./license)
-
