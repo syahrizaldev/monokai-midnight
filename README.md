@@ -21,9 +21,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
    "editor.lineHeight": 25,
    "editor.letterSpacing": 0.5,
    "editor.guides.bracketPairs": "active",
-   "editor.bracketPairColorization.enabled": true,
-   "explorer.fileNesting.expand": true,
-   "explorer.fileNesting.enabled": true
+   "editor.bracketPairColorization.enabled": true
 }
 ```
 
@@ -42,3 +40,4 @@ Thank you for the contributions and have a nice day.
 ## License
 
 [MIT License](./license)
+
