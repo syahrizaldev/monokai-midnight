@@ -10,24 +10,22 @@
       "name": "Syahrizal"
    },
    "engines": {
-      "vscode": "^1.20.0"
+      "vscode": "^1.17.0"
    },
    "categories": [
       "Themes"
    ],
    "galleryBanner": {
       "theme": "dark",
-      "color": "#101720"
+      "color": "#111922"
    },
    "keywords": [
       "theme",
       "vscode",
       "monokai",
-      "palenight",
       "dark-theme",
       "color-theme",
-      "vscode-theme",
-      "monokai-theme"
+      "vscode-theme"
    ],
    "contributes": {
       "themes": [
