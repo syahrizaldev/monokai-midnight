@@ -1,6 +1,6 @@
 <p align="center">
     <img src="./assets/logo.png" width="120" height="120">
-    <h1 align="center">Monokai Palenight Theme</h1>
+    <h1 align="center">Monokai Palenight</h1>
 </p>
 
 Clean and minimalist monokai-inspired dark theme for Visual Studio Code.
@@ -9,9 +9,9 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 ## Installation
 
 1. Open the **Extensions** sidebar on Visual Studio Code.
-2. Search for **Monokai Palenight Theme**.
+2. Search for **Monokai Palenight** theme.
 3. Click **Install** to start the installation process.
-4. Preferences > Theme > Color Theme > **Monokai Palenight Theme**
+4. Preferences > Theme > Color Theme > **Monokai Palenight**
 
 ## Optional Setting
 
@@ -27,12 +27,12 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 
 ## Screenshots
 
-![Monokai Palenight Theme](./assets/screenshot-1.png)<br>
-![Monokai Palenight Theme](./assets/screenshot-2.png)
+![Monokai Palenight](./assets/screenshot-1.png)<br>
+![Monokai Palenight](./assets/screenshot-2.png)
 
 ## Contributing
 
-**Monokai Palenight Theme** are currently under development and improvement.
+**Monokai Palenight** theme are currently under development and improvement.
 If you found any problem or have a future request, please open an
 [**issue here**](https://github.com/syahrizaldev/monokai-palenight/issues).
 Thank you for the contributions and have a nice day.
@@ -40,4 +40,3 @@ Thank you for the contributions and have a nice day.
 ## License
 
 [MIT License](./license)
-

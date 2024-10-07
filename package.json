@@ -1,10 +1,10 @@
 {
    "name": "monokai-palenight-theme",
-   "displayName": "Monokai Palenight Theme",
+   "displayName": "Monokai Palenight",
    "description": "Clean and minimalist monokai-inspired dark vscode theme.",
    "license": "MIT",
    "icon": "assets/logo.png",
-   "version": "1.1.0",
+   "version": "1.2.0",
    "publisher": "syahrizaldev",
    "author": {
       "name": "Syahrizal"
@@ -17,7 +17,7 @@
    ],
    "galleryBanner": {
       "theme": "dark",
-      "color": "#111922"
+      "color": "#0f171f"
    },
    "keywords": [
       "theme",
@@ -31,7 +31,7 @@
       "themes": [
          {
             "uiTheme": "vs-dark",
-            "label": "Monokai Palenight Theme",
+            "label": "Monokai Palenight",
             "path": "./theme/monokai-palenight.json"
          }
       ]
