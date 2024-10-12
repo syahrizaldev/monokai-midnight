@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/" width="120" height="120">
+    <img src="./assets/logo.png" width="120" height="120">
     <h1 align="center">Monokai Midnight Theme</h1>
 </p>
 

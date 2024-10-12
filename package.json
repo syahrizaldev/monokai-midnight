@@ -3,7 +3,7 @@
    "displayName": "Monokai Midnight Theme",
    "description": "Clean and minimalist monokai-inspired dark vscode theme.",
    "license": "MIT",
-   "icon": "assets/",
+   "icon": "assets/logo.png",
    "version": "1.0.0",
    "publisher": "syahrizaldev",
    "author": {
