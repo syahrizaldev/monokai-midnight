@@ -1,23 +1,23 @@
 {
-   "name": "monokai-palenight-theme",
-   "displayName": "Monokai Palenight Theme",
+   "name": "monokai-midnight-theme",
+   "displayName": "Monokai Midnight Theme",
    "description": "Clean and minimalist monokai-inspired dark vscode theme.",
    "license": "MIT",
-   "icon": "assets/logo.png",
-   "version": "1.2.0",
+   "icon": "assets/",
+   "version": "1.0.0",
    "publisher": "syahrizaldev",
    "author": {
       "name": "Syahrizal"
    },
    "engines": {
-      "vscode": "^1.17.0"
+      "vscode": "^1.15.0"
    },
    "categories": [
       "Themes"
    ],
    "galleryBanner": {
       "theme": "dark",
-      "color": "#0f171f"
+      "color": "#10151e"
    },
    "keywords": [
       "theme",
@@ -31,16 +31,16 @@
       "themes": [
          {
             "uiTheme": "vs-dark",
-            "label": "Monokai Palenight Theme",
-            "path": "./theme/monokai-palenight.json"
+            "label": "Monokai Midnight Theme",
+            "path": "./theme/monokai-midnight.json"
          }
       ]
    },
    "repository": {
       "type": "git",
-      "url": "https://github.com/syahrizaldev/monokai-palenight"
+      "url": "https://github.com/syahrizaldev/monokai-midnight"
    },
    "bugs": {
-      "url": "https://github.com/syahrizaldev/monokai-palenight/issues"
+      "url": "https://github.com/syahrizaldev/monokai-midnight/issues"
    }
 }
