@@ -32,7 +32,7 @@
          {
             "uiTheme": "vs-dark",
             "label": "Monokai Midnight Theme",
-            "path": "./theme/monokai-midnight.json"
+            "path": "./theme/monokai-midnight-theme.json"
          }
       ]
    },
