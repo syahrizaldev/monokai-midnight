@@ -32,12 +32,13 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 
 ## Contributing
 
-**Monokai Midnight** theme are currently under development and improvement.
-If you found any problem or have a future request, please open an
+**Monokai Midnight** theme is currently under development and improvement.
+If you find any problem or have a future request, please open an
 [**issue here**](https://github.com/syahrizaldev/monokai-midnight/issues).
 Thank you for the contributions and have a nice day.
 
 ## License
 
-[MIT License](./license)
+This repository is licensed under the terms of the [**MIT License**](./license).
+You can use, modify, and distribute this project under the license.
 
