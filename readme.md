@@ -9,7 +9,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
 ## Installation
 
 1. Open the **Extensions** sidebar on Visual Studio Code.
-2. Search for **Monokai Midnight**.
+2. Search for **Monokai Midnight** theme.
 3. Click **Install** to start the installation process.
 4. Preferences > Theme > Color Theme > **Monokai Midnight**
 
@@ -20,6 +20,7 @@ Remove the unnecessary borders and improve the syntax highlighting colors.
    "editor.fontSize": 16,
    "editor.lineHeight": 25,
    "editor.letterSpacing": 0.5,
+   "editor.fontFamily": "JetBrains Mono",
    "editor.guides.bracketPairs": "active",
    "editor.bracketPairColorization.enabled": true
 }
@@ -41,4 +42,3 @@ Thank you for the contributions and have a nice day.
 
 This repository is licensed under the terms of the [**MIT License**](./license).
 You can use, modify, and distribute this project under the license.
-
