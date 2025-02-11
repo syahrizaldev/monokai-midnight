@@ -1,10 +1,10 @@
 {
    "name": "monokai-midnight",
    "displayName": "Monokai Midnight",
-   "description": "Clean and minimalist monokai-inspired vscode dark theme.",
+   "description": "Minimalist and clean monokai-inspired dark theme for vscode.",
    "publisher": "syahrizaldev",
    "icon": "assets/logo.png",
-   "version": "1.1.0",
+   "version": "1.2.0",
    "license": "MIT",
    "engines": {
       "vscode": "^1.15.0"
@@ -22,7 +22,8 @@
       "dark-theme",
       "color-theme",
       "vscode-theme",
-      "monokai-theme"
+      "monokai-theme",
+      "monokai-midnight"
    ],
    "galleryBanner": {
       "theme": "dark",
@@ -43,6 +44,5 @@
    },
    "bugs": {
       "url": "https://github.com/syahrizaldev/monokai-midnight/issues"
-   },
-   "homepage": "https://github.com/syahrizaldev/monokai-midnight#readme"
+   }
 }
