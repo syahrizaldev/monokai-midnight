@@ -1,43 +1,46 @@
 {
    "name": "monokai-midnight",
    "displayName": "Monokai Midnight",
-   "description": "Minimalist and clean monokai-inspired dark theme for vscode.",
-   "publisher": "syahrizaldev",
+   "description": "Clean and minimalist monokai-inspired dark theme for Visual Studio Code.",
    "icon": "assets/logo.png",
-   "version": "1.2.0",
+   "version": "1.3.0",
+   "publisher": "syahrizaldev",
    "license": "MIT",
    "engines": {
-      "vscode": "^1.15.0"
+      "vscode": "^1.20.0"
    },
    "categories": [
-      "Themes"
+      "Themes",
+      "Other"
    ],
    "author": {
       "name": "Syahrizal"
    },
+   "galleryBanner": {
+      "theme": "dark",
+      "color": "#121216"
+   },
    "keywords": [
+      "dark",
       "theme",
       "vscode",
       "monokai",
+      "minimalist",
       "dark-theme",
       "color-theme",
       "vscode-theme",
-      "monokai-theme",
-      "monokai-midnight"
+      "monokai-theme"
    ],
-   "galleryBanner": {
-      "theme": "dark",
-      "color": "#10151e"
-   },
    "contributes": {
       "themes": [
          {
-            "uiTheme": "vs-dark",
             "label": "Monokai Midnight",
-            "path": "./theme/monokai-midnight.json"
+            "uiTheme": "vs-dark",
+            "path": "./theme/monokai-midnight-color-theme.json"
          }
       ]
    },
+   "homepage": "https://github.com/syahrizaldev/monokai-midnight",
    "repository": {
       "type": "git",
       "url": "https://github.com/syahrizaldev/monokai-midnight"
