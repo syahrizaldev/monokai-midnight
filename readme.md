@@ -1,6 +1,6 @@
 <p align="center">
     <img src="./assets/logo.png" width="120" height="120">
-    <h1 align="center">Monokai Midnight Theme</h1>
+    <h1 align="center">Monokai Midnight</h1>
 </p>
 
 Clean and minimalist monokai-inspired dark theme for Visual Studio Code.
@@ -11,7 +11,7 @@ Remove the unnecessary borders and enhance the syntax highlighting colors.
 1. Open the **Extensions** sidebar on Visual Studio Code.
 2. Search for **Monokai Midnight** theme.
 3. Click **Install** to start the installation process.
-4. Preferences > Theme > Color Theme > **Monokai Midnight**
+4. File > Preferences > Themes > Color Theme > **Monokai Midnight**
 
 ## Optional Setting
 
