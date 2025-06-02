@@ -1,10 +1,10 @@
 <p align="center">
     <img src="./assets/logo.png" width="120" height="120">
-    <h1 align="center">Monokai Midnight</h1>
+    <h1 align="center">Monokai Midnight Theme</h1>
 </p>
 
-Minimalist and clean monokai-inspired dark theme for Visual Studio Code.
-Remove the unnecessary border and improve the syntax highlighting colors.
+Clean and minimalist monokai-inspired dark theme for Visual Studio Code.
+Remove the unnecessary borders and enhance the syntax highlighting colors.
 
 ## Installation
 
