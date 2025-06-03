@@ -4,13 +4,16 @@
    "semanticHighlighting": true,
    "semanticTokenColors": {
       "enumMember": {
-         "foreground": "#fa4789"
+         "foreground": "#a57cf8"
       },
       "variable.constant": {
          "foreground": "#a57cf8"
       },
       "variable.defaultLibrary": {
-         "foreground": "#f8f8f7"
+         "foreground": "#f1f2f4"
+      },
+      "property.defaultLibrary": {
+         "foreground": "#f1f2f4"
       }
    },
    "colors": {
@@ -552,10 +555,16 @@
             "punctuation.separator.delimiter",
             "punctuation.separator.list.comma.css",
             "punctuation.separator.list.comma.less",
+            "punctuation.separator.list.comma.scss",
             "punctuation.separator.list.comma.sass",
             "variable.argument.css",
             "variable.argument.less",
+            "variable.argument.scss",
             "variable.argument.sass",
+            "support.type.property-name.media.css",
+            "support.type.property-name.media.less",
+            "support.type.property-name.media.scss",
+            "support.type.property-name.media.sass",
             "support.variable.semantic.hlsl",
             "invalid.illegal.bad-ampersand.html",
             "punctuation.definition.block.sequence.item.yaml",
@@ -589,8 +598,6 @@
             "punctuation.definition.list.end.python",
             "variable.other.php",
             "variable.other.class.php",
-            "variable.language.this.php",
-            "punctuation.definition.variable.php",
             "punctuation.section.embedded.begin.php",
             "punctuation.section.embedded.end.php",
             "support.other.namespace.use.php",
@@ -625,36 +632,39 @@
             "punctuation.definition.section.switch-block.end.bracket.curly.php",
             "variable.css",
             "variable.less",
+            "variable.scss",
             "variable.sass",
-            "meta.property-name.css",
-            "meta.property-name.less",
-            "meta.property-name.sass",
-            "meta.property-value.css",
-            "meta.property-value.less",
-            "meta.property-value.sass",
-            "meta.property-list.css",
-            "meta.property-list.less",
-            "meta.property-list.sass",
+            "meta.at-rule.header.css",
+            "meta.at-rule.header.less",
+            "meta.at-rule.header.scss",
+            "meta.at-rule.header.sass",
             "punctuation.definition.variable.css",
             "punctuation.definition.variable.less",
+            "punctuation.definition.variable.scss",
             "punctuation.definition.variable.sass",
             "punctuation.section.property-list.begin.bracket.curly.css",
             "punctuation.section.property-list.begin.bracket.curly.less",
+            "punctuation.section.property-list.begin.bracket.curly.scss",
             "punctuation.section.property-list.begin.bracket.curly.sass",
             "punctuation.section.property-list.end.bracket.curly.css",
             "punctuation.section.property-list.end.bracket.curly.less",
+            "punctuation.section.property-list.end.bracket.curly.scss",
             "punctuation.section.property-list.end.bracket.curly.sass",
             "punctuation.section.function.begin.bracket.round.css",
             "punctuation.section.function.begin.bracket.round.less",
+            "punctuation.section.function.begin.bracket.round.scss",
             "punctuation.section.function.begin.bracket.round.sass",
             "punctuation.section.function.end.bracket.round.css",
             "punctuation.section.function.end.bracket.round.less",
+            "punctuation.section.function.end.bracket.round.scss",
             "punctuation.section.function.end.bracket.round.sass",
             "punctuation.section.media.begin.bracket.curly.css",
             "punctuation.section.media.begin.bracket.curly.less",
+            "punctuation.section.media.begin.bracket.curly.scss",
             "punctuation.section.media.begin.bracket.curly.sass",
             "punctuation.section.media.end.bracket.curly.css",
             "punctuation.section.media.end.bracket.curly.less",
+            "punctuation.section.media.end.bracket.curly.scss",
             "punctuation.section.media.end.bracket.curly.sass",
             "text.xml",
             "storage.type.cs",
@@ -667,7 +677,7 @@
             "string.other.link.description.title.markdown"
          ],
          "settings": {
-            "foreground": "#f8f8f7"
+            "foreground": "#f1f2f4"
          }
       },
       {
@@ -691,6 +701,8 @@
             "punctuation.separator.delimiter.unison",
             "punctuation.definition.hash.unison",
             "variable.language.this",
+            "keyword.other.this",
+            "variable.language.this punctuation.definition.variable",
             "string.quoted.json",
             "constant.other.character-class.regexp",
             "markup.heading.markdown",
@@ -721,7 +733,7 @@
             "variable.language.special.self.python"
          ],
          "settings": {
-            "foreground": "#fa9f38"
+            "foreground": "#fbab51"
          }
       },
       {
@@ -766,15 +778,19 @@
             "support.function.std.rust",
             "meta.selector.css",
             "meta.selector.less",
+            "meta.selector.scss",
             "meta.selector.sass",
             "entity.other.attribute-name.id.css punctuation",
             "entity.other.attribute-name.id.less punctuation",
+            "entity.other.attribute-name.id.scss punctuation",
             "entity.other.attribute-name.id.sass punctuation",
             "entity.other.attribute-name.class.css punctuation",
             "entity.other.attribute-name.class.less punctuation",
+            "entity.other.attribute-name.class.scss punctuation",
             "entity.other.attribute-name.class.sass punctuation",
             "entity.other.attribute-name.parent-selector-suffix.css punctuation",
             "entity.other.attribute-name.parent-selector-suffix.less punctuation",
+            "entity.other.attribute-name.parent-selector-suffix.scss punctuation",
             "entity.other.attribute-name.parent-selector-suffix.sass punctuation",
             "markup.inline.raw.markdown",
             "markup.inline.raw.string.markdown",
@@ -782,7 +798,7 @@
             "punctuation.definition.bold.markdown"
          ],
          "settings": {
-            "foreground": "#abe64c"
+            "foreground": "#a6e64c"
          }
       },
       {
@@ -799,6 +815,7 @@
             "keyword.operator",
             "keyword.control",
             "keyword.other.unit",
+            "keyword.other.important",
             "punctuation.definition.keyword",
             "constant.character.escape",
             "keyword.operator.logical",
@@ -818,8 +835,13 @@
             "keyword.operator.assignment.compound",
             "keyword.control.conditional",
             "string.regexp",
+            "source.css",
+            "source.css.scss",
+            "source.css.sass",
+            "source.css.less",
             "keyword.operator.css",
             "keyword.operator.less",
+            "keyword.operator.scss",
             "keyword.operator.sass",
             "support.type.prelude.elm",
             "storage.type",
@@ -868,7 +890,7 @@
             "punctuation.definition.italic.markdown"
          ],
          "settings": {
-            "foreground": "#fa4789"
+            "foreground": "#fa478f"
          }
       },
       {
@@ -881,7 +903,6 @@
             "meta.selector",
             "meta.object-literal.key",
             "todo.emphasis",
-            "keyword.other.important",
             "keyword.operator.delete",
             "keyword.operator.assignment.compound",
             "keyword.operator.module",
@@ -911,31 +932,32 @@
             "keyword.operator.address.go",
             "meta.property-list.css",
             "meta.property-list.less",
+            "meta.property-list.scss",
             "meta.property-list.sass",
             "meta.property-name.css",
             "meta.property-name.less",
+            "meta.property-name.scss",
             "meta.property-name.sass",
             "meta.property-value.css",
             "meta.property-value.less",
+            "meta.property-value.scss",
             "meta.property-value.sass",
             "support.constant.media.css",
             "support.constant.media.less",
+            "support.constant.media.scss",
             "support.constant.media.sass",
             "support.type.vendored.property-name.css",
             "support.type.vendored.property-name.less",
+            "support.type.vendored.property-name.scss",
             "support.type.vendored.property-name.sass",
             "support.type.property-name.css",
             "support.type.property-name.less",
+            "support.type.property-name.scss",
             "support.type.property-name.sass",
-            "support.type.property-name.media.css",
-            "support.type.property-name.media.less",
-            "support.type.property-name.media.sass",
             "support.constant.parity.css",
             "support.constant.parity.less",
+            "support.constant.parity.scss",
             "support.constant.parity.sass",
-            "support.type.property-name.media.css",
-            "support.type.property-name.media.less",
-            "support.type.property-name.media.sass",
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
             "variable.other.property.php",
@@ -972,15 +994,19 @@
             "support.constant.core.rust",
             "punctuation.definition.constant.css",
             "punctuation.definition.constant.less",
+            "punctuation.definition.constant.scss",
             "punctuation.definition.constant.sass",
             "support.constant.property-value.css",
             "support.constant.property-value.less",
+            "support.constant.property-value.scss",
             "support.constant.property-value.sass",
             "support.constant.color.w3c-standard-color-name.css",
             "support.constant.color.w3c-standard-color-name.less",
+            "support.constant.color.w3c-standard-color-name.scss",
             "support.constant.color.w3c-standard-color-name.sass",
             "support.constant.color.w3c-extended-color-name.css",
             "support.constant.color.w3c-extended-color-name.less",
+            "support.constant.color.w3c-extended-color-name.scss",
             "support.constant.color.w3c-extended-color-name.sass",
             "constant.character.format.placeholder.other.python",
             "support.constant.ext.php",
@@ -994,13 +1020,14 @@
             "punctuation.definition.bold.markdown"
          ],
          "settings": {
-            "foreground": "#a57cf8"
+            "foreground": "#ac86f9"
          }
       },
       {
          "scope": [
             "string",
             "string.quoted",
+            "string constant.character",
             "markup.inserted.diff",
             "keyword.other.template.begin",
             "keyword.other.template.end",
@@ -1023,13 +1050,25 @@
             "markup.fenced_code.block.markdown"
          ],
          "settings": {
-            "foreground": "#e8dd7d"
+            "foreground": "#e8dc7d"
          }
       },
       {
-         "scope": ["comment", "punctuation.definition.comment", "markup.link", "markup.quote.markdown"],
+         "scope": [
+            "comment",
+            "punctuation.definition.comment",
+            "markup.link",
+            "markup.quote.markdown",
+            "comment.block.documentation",
+            "comment.block.documentation variable",
+            "comment.block.documentation storage",
+            "comment.block.documentation keyword",
+            "comment.block.documentation support",
+            "comment.block.documentation markup",
+            "comment.block.documentation punctuation"
+         ],
          "settings": {
-            "foreground": "#676f7e"
+            "foreground": "#636a79"
          }
       },
       {
@@ -1037,17 +1076,40 @@
             "comment",
             "markup.link",
             "punctuation.definition.comment",
-            "support.type.primitive.ts",
+            "keyword.control.flow",
+            "keyword.control.return",
             "markup.italic.markdown",
             "markup.quote.markdown",
-            "punctuation.definition.italic.markdown"
+            "punctuation.definition.italic.markdown",
+            "support.type.primitive.ts",
+            "string.quoted.docstring.multi"
          ],
          "settings": {
             "fontStyle": "italic"
          }
       },
       {
-         "scope": ["markup.bold.markdown", "markup.heading.markdown", "punctuation.definition.bold.markdown"],
+         "scope": [
+            "markup.bold",
+            "markup.bold punctuation",
+            "markup.bold markup.italic",
+            "markup.bold markup.italic punctuation",
+            "markup.bold.markdown",
+            "markup.heading.markdown",
+            "punctuation.definition.bold.markdown",
+            "heading.1.markdown entity.name",
+            "heading.1.markdown punctuation.definition.heading.markdown",
+            "heading.2.markdown entity.name",
+            "heading.2.markdown punctuation.definition.heading.markdown",
+            "heading.3.markdown entity.name",
+            "heading.3.markdown punctuation.definition.heading.markdown",
+            "heading.4.markdown entity.name",
+            "heading.4.markdown punctuation.definition.heading.markdown",
+            "heading.5.markdown entity.name",
+            "heading.5.markdown punctuation.definition.heading.markdown",
+            "heading.6.markdown entity.name",
+            "heading.6.markdown punctuation.definition.heading.markdown"
+         ],
          "settings": {
             "fontStyle": "bold"
          }
