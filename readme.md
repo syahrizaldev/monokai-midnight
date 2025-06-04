@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logo.png" width="120" height="120">
+    <img src="./assets/logo.png" width="116" height="116">
     <h1 align="center">Monokai Midnight</h1>
 </p>
 
@@ -17,11 +17,11 @@ Remove the unnecessary borders and enhance the syntax highlighting colors.
 
 ```json
 {
-   "editor.fontSize": 16,
-   "editor.lineHeight": 25,
-   "editor.letterSpacing": 0.25,
    "editor.fontFamily": "JetBrains Mono",
    "editor.fontWeight": "normal",
+   "editor.fontSize": 16,
+   "editor.lineHeight": 1.5,
+   "editor.letterSpacing": 0.3,
    "editor.guides.bracketPairs": "active",
    "editor.bracketPairColorization.enabled": true
 }
@@ -30,7 +30,8 @@ Remove the unnecessary borders and enhance the syntax highlighting colors.
 ## Screenshots
 
 ![Monokai Midnight Theme](./assets/screenshot-1.png)<br><br>
-![Monokai Midnight Theme](./assets/screenshot-2.png)
+![Monokai Midnight Theme](./assets/screenshot-2.png)<br><br>
+![Monokai Midnight Theme](./assets/screenshot-3.png)
 
 ## Contributing
 
