@@ -5,19 +5,19 @@ Please check [**Keep a Changelog**](https://keepachangelog.com/) to structured t
 
 ## v1.3.0
 
--  Rewrite theme colors
--  Rewrite token colors
+-  Update theme colors
+-  Update token colors
 -  Update readme.md
 
 ## v1.2.0
 
--  Update readme.md
 -  Update theme colors
+-  Update readme.md
 
 ## v1.1.0
 
--  Update readme.md
 -  Update theme colors
+-  Update readme.md
 
 ## v1.0.0
 
