@@ -188,10 +188,13 @@
       "editorLineNumber.activeForeground": "#c6cad2",
 
       "editorError.foreground": "#fb517b",
+      "editorError.background": "#fb517b20",
       "editorError.border": "#00000000",
       "editorInfo.foreground": "#06bbe0",
+      "editorInfo.background": "#06bbe020",
       "editorInfo.border": "#00000000",
       "editorWarning.foreground": "#faa938",
+      "editorWarning.background": "#faa93820",
       "editorWarning.border": "#00000000",
       "editorHint.foreground": "#33cc73",
       "editorHint.border": "#00000000",
