@@ -1,6 +1,7 @@
 {
    "name": "Monokai Midnight",
    "type": "dark",
+   "author": "Syahrizal",
    "semanticHighlighting": true,
    "semanticTokenColors": {
       "enumMember": {
