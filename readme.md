@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logo.png" width="116" height="116">
+    <img src="./assets/logo.png" width="115" height="115">
     <h1 align="center">Monokai Midnight</h1>
 </p>
 
@@ -11,7 +11,7 @@ Remove the unnecessary borders and enhance the syntax highlighting colors.
 1. Open the **Extensions** sidebar on Visual Studio Code.
 2. Search for **Monokai Midnight** theme.
 3. Click **Install** to start the installation process.
-4. File > Preferences > Themes > Color Theme > **Monokai Midnight**
+4. Manage > Themes > Color Theme > **Monokai Midnight**
 
 ## Optional Setting
 
