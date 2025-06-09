@@ -5,16 +5,16 @@
    "semanticHighlighting": true,
    "semanticTokenColors": {
       "enumMember": {
-         "foreground": "#a57cf8"
+         "foreground": "#5ed5ed"
       },
       "variable.constant": {
-         "foreground": "#a57cf8"
+         "foreground": "#fa478f"
       },
       "variable.defaultLibrary": {
-         "foreground": "#f1f2f4"
+         "foreground": "#e3e5e8"
       },
       "property.defaultLibrary": {
-         "foreground": "#f1f2f4"
+         "foreground": "#e3e5e8"
       }
    },
    "colors": {
@@ -133,26 +133,26 @@
       "editor.placeholder.foreground": "#8d95a5",
 
       "editor.findMatchBorder": "#e0b16c",
-      "editor.findMatchBackground": "#707a8f60",
-      "editor.findMatchHighlightBackground": "#707a8f60",
-      "editor.findRangeHighlightBackground": "#707a8f60",
+      "editor.findMatchBackground": "#7e889a60",
+      "editor.findMatchHighlightBackground": "#7e889a50",
+      "editor.findRangeHighlightBackground": "#7e889a50",
 
-      "editor.lineHighlightBackground": "#25252d",
-      "editor.lineHighlightBorder": "#25252d",
-      "editor.hoverHighlightBackground": "#707a8f60",
-      "editor.rangeHighlightBackground": "#707a8f60",
+      "editor.lineHighlightBackground": "#22222a",
+      "editor.lineHighlightBorder": "#22222a",
+      "editor.hoverHighlightBackground": "#7e889a60",
+      "editor.rangeHighlightBackground": "#7e889a60",
       "editor.rangeHighlightBorder": "#00000000",
 
-      "editor.selectionForeground": "#e2e4e9",
-      "editor.selectionBackground": "#707a8f55",
+      "editor.selectionForeground": "#e3e8e8",
+      "editor.selectionBackground": "#7e889a60",
+      "editor.selectionHighlightBackground": "#7e889a50",
       "editor.selectionHighlightBorder": "#00000000",
-      "editor.selectionHighlightBackground": "#707a8f55",
 
-      "editor.wordHighlightBackground": "#707a8f65",
+      "editor.wordHighlightBackground": "#7e889a50",
       "editor.wordHighlightBorder": "#00000000",
-      "editor.wordHighlightStrongBackground": "#707a8f65",
+      "editor.wordHighlightStrongBackground": "#7e889a60",
       "editor.wordHighlightStrongBorder": "#00000000",
-      "editor.wordHighlightTextBackground": "#707a8f65",
+      "editor.wordHighlightTextBackground": "#7e889a60",
       "editor.wordHighlightTextBorder": "#00000000",
 
       "editorBracketMatch.border": "#00000000",
@@ -173,7 +173,7 @@
 
       "editorGroup.border": "#202027",
       "editorGroup.emptyBackground": "#0e0e11",
-      "editorGroup.dropBackground": "#17171c",
+      "editorGroup.dropBackground": "#7e889a40",
       "editorGroupHeader.border": "#00000000",
       "editorGroupHeader.tabsBackground": "#09090b",
       "editorGroupHeader.noTabsBackground": "#09090b",
@@ -279,14 +279,14 @@
       "list.focusForeground": "#e2e4e9",
       "list.focusBackground": "#202027",
       "list.hoverForeground": "#e2e4e9",
-      "list.hoverBackground": "#1e1e24",
+      "list.hoverBackground": "#202027",
       "list.highlightForeground": "#e2e4e9",
       "list.activeSelectionForeground": "#e2e4e9",
-      "list.activeSelectionBackground": "#272730",
+      "list.activeSelectionBackground": "#25252d",
       "list.inactiveSelectionForeground": "#e2e4e9",
-      "list.inactiveSelectionBackground": "#1e1e24",
+      "list.inactiveSelectionBackground": "#202027",
       "list.deemphasizedForeground": "#8d95a5",
-      "list.dropBackground": "#17171c",
+      "list.dropBackground": "#7e889a35",
       "list.invalidItemForeground": "#fb517b",
       "list.errorForeground": "#fb517b",
       "list.warningForeground": "#faa938",
@@ -363,7 +363,7 @@
       "sideBar.foreground": "#e2e4e9",
       "sideBar.background": "#09090b",
       "sideBar.border": "#00000000",
-      "sideBar.dropBackground": "#17171c",
+      "sideBar.dropBackground": "#7e889a35",
       "sideBarTitle.foreground": "#c6cad2",
       "sideBarSectionHeader.foreground": "#c6cad2",
       "sideBarSectionHeader.background": "#0e0e11",
@@ -639,7 +639,7 @@
             "string.other.link.description.title.markdown"
          ],
          "settings": {
-            "foreground": "#f1f2f4"
+            "foreground": "#e3e5e8"
          }
       },
       {
