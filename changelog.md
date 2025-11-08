@@ -3,6 +3,11 @@
 All notable changes to the **"Monokai Midnight"** theme extension will be documented in this file.
 Please check [**Keep a Changelog**](https://keepachangelog.com/) to structured this file.
 
+## v1.5.0
+
+-  Update token colors
+-  Update theme colors
+
 ## v1.4.5
 
 -  Update theme colors
