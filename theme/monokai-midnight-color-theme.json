@@ -5,16 +5,16 @@
    "semanticHighlighting": true,
    "semanticTokenColors": {
       "enumMember": {
-         "foreground": "#5edfed"
+         "foreground": "#68d8ee"
       },
       "variable.constant": {
-         "foreground": "#fa478f"
+         "foreground": "#fa2976"
       },
       "variable.defaultLibrary": {
-         "foreground": "#e3e5e8"
+         "foreground": "#e4e5e7"
       },
       "property.defaultLibrary": {
-         "foreground": "#e3e5e8"
+         "foreground": "#e4e5e7"
       }
    },
    "colors": {
@@ -158,19 +158,17 @@
 
       "editorBracketMatch.border": "#00000000",
       "editorBracketMatch.background": "#00000000",
-      "editorBracketHighlight.foreground1": "#e8da7d",
-      "editorBracketHighlight.foreground2": "#ad89f5",
-      "editorBracketHighlight.foreground3": "#fc9867",
-      "editorBracketHighlight.foreground4": "#fa478f",
-      "editorBracketHighlight.foreground5": "#5edfed",
-      "editorBracketHighlight.foreground6": "#a6e06c",
+      "editorBracketHighlight.foreground1": "#e6d870",
+      "editorBracketHighlight.foreground2": "#ab83fc",
+      "editorBracketHighlight.foreground3": "#fa9c29",
+      "editorBracketHighlight.foreground4": "#fa2976",
+      "editorBracketHighlight.foreground5": "#68d8ee",
 
-      "editorBracketPairGuide.background1": "#e8da7d",
-      "editorBracketPairGuide.background2": "#ad89f5",
-      "editorBracketPairGuide.background3": "#fc9867",
-      "editorBracketPairGuide.background4": "#fa478f",
-      "editorBracketPairGuide.background5": "#5edfed",
-      "editorBracketPairGuide.background6": "#a6e06c",
+      "editorBracketPairGuide.background1": "#e6d870",
+      "editorBracketPairGuide.background2": "#ab83fc",
+      "editorBracketPairGuide.background3": "#fa9c29",
+      "editorBracketPairGuide.background4": "#fa2976",
+      "editorBracketPairGuide.background5": "#68d8ee",
 
       "editorGroup.border": "#202027",
       "editorGroup.emptyBackground": "#0e0e11",
@@ -243,11 +241,11 @@
       "gitDecoration.stageDeletedResourceForeground": "#b94676",
       "gitDecoration.stageModifiedResourceForeground": "#d1a261",
 
-      "scmGraph.foreground1": "#fc9867",
-      "scmGraph.foreground2": "#e8da7d",
-      "scmGraph.foreground3": "#fa478f",
-      "scmGraph.foreground4": "#a6e06c",
-      "scmGraph.foreground5": "#ad89f5",
+      "scmGraph.foreground1": "#fa9c29",
+      "scmGraph.foreground2": "#e6d870",
+      "scmGraph.foreground3": "#fa2976",
+      "scmGraph.foreground4": "#a9e236",
+      "scmGraph.foreground5": "#ab83fc",
 
       "scmGraph.historyItemRefColor": "#5370c6",
       "scmGraph.historyItemRemoteRefColor": "#46aab9",
@@ -659,7 +657,7 @@
             "string.other.link.description.title.markdown"
          ],
          "settings": {
-            "foreground": "#e3e5e8"
+            "foreground": "#e4e5e7"
          }
       },
       {
@@ -715,7 +713,7 @@
             "variable.language.special.self.python"
          ],
          "settings": {
-            "foreground": "#fc9867"
+            "foreground": "#fa9c29"
          }
       },
       {
@@ -780,7 +778,7 @@
             "punctuation.definition.bold.markdown"
          ],
          "settings": {
-            "foreground": "#a6e06c"
+            "foreground": "#a9e236"
          }
       },
       {
@@ -872,7 +870,7 @@
             "punctuation.definition.italic.markdown"
          ],
          "settings": {
-            "foreground": "#fa478f"
+            "foreground": "#fa2976"
          }
       },
       {
@@ -955,7 +953,7 @@
             "entity.name.tag.yaml"
          ],
          "settings": {
-            "foreground": "#5edfed"
+            "foreground": "#68d8ee"
          }
       },
       {
@@ -1002,7 +1000,7 @@
             "punctuation.definition.bold.markdown"
          ],
          "settings": {
-            "foreground": "#ad89f5"
+            "foreground": "#ab83fc"
          }
       },
       {
@@ -1032,7 +1030,7 @@
             "markup.fenced_code.block.markdown"
          ],
          "settings": {
-            "foreground": "#e8da7d"
+            "foreground": "#e6d870"
          }
       },
       {
@@ -1050,7 +1048,7 @@
             "comment.block.documentation punctuation"
          ],
          "settings": {
-            "foreground": "#636a79"
+            "foreground": "#676f7e"
          }
       },
       {
