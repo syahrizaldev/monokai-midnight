@@ -2,7 +2,7 @@
    "name": "monokai-midnight",
    "displayName": "Monokai Midnight",
    "description": "Clean and minimalist monokai-inspired dark theme for Visual Studio Code.",
-   "icon": "assets/logo.png",
+   "icon": "assets/logo.webp",
    "version": "1.5.2",
    "license": "MIT",
    "private": true,
