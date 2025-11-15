@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/logo.png" width="115" height="115">
+	<img src="assets/logo.webp" width="115" height="115">
 	<h1 align="center">Monokai Midnight</h1>
 </p>
 
@@ -19,10 +19,10 @@
 ```json
 {
    "editor.fontFamily": "JetBrains Mono",
-   "editor.fontWeight": "normal",
    "editor.fontSize": 16,
-   "editor.lineHeight": 1.5,
-   "editor.letterSpacing": 0.3,
+   "editor.lineHeight": 25,
+   "editor.fontWeight": "400",
+   "editor.letterSpacing": 0.5,
    "editor.guides.bracketPairs": "active",
    "editor.bracketPairColorization.enabled": true
 }
@@ -30,8 +30,8 @@
 
 ## Screenshots
 
-![Monokai Midnight Theme](assets/screenshot-1.png)<br><br>
-![Monokai Midnight Theme](assets/screenshot-2.png)
+![Monokai Midnight Theme](assets/screenshot-1.webp)<br><br>
+![Monokai Midnight Theme](assets/screenshot-2.webp)
 
 ## Contributing
 
